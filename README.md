@@ -1,2 +1,2 @@
 # WebbyScrappy
-simple app that scrapps data from websites with jsoup
+simple app that scrapps data from websites with jsoup. This is just a very basic template...
